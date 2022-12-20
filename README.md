@@ -1,0 +1,1 @@
+# slideManish.js
